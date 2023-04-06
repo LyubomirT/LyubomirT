@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @LyubomirT
-- 👀 I’m interested in programming, web design and game development.
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on some repositories I can find on GitHub
-- 📫 To reach me, you can use Discord: LyubomirT#4035
 
-<!---
-LyubomirT/LyubomirT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# Hi there, I'm LyubomirT 👋
+
+I'm a web developer (mostly) who is learning how to code as a pro, but is doing that too intensively. I like to create fun and useful projects using Python, HTML, JS and other languages.
+
+## 🚀 Some of my projects:
+
+- [OrionBot](https://github.com/LyubomirT/OrionBot): A Python library that allows you to easily train and run chatbots
+- [BingleMD](https://github.com/LyubomirT/bingle-md): A simple and neat markdown editor, with visual tools
+- [MoveMe.js](https://github.com/LyubomirT/moveme.js): A lightweight JavaScript library for enabling Drag-and-Drop features to a HTML page without writing a lot of code
+
+## 📫 How to reach me:
+
+You can contact me on Discord (LyubomirT#4035), or using email: ternavski103@gmail.com
+
+## 🌟 Fun fact:
+
+I'm an absolute computer freak, and not planning to give up!
