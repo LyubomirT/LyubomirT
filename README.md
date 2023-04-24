@@ -13,7 +13,3 @@ I'm a web developer (mostly) who is learning how to code as a pro, but is doing 
 ## 📫 How to reach me:
 
 You can contact me on Discord (LyubomirT#4035), or using email: ternavski103@gmail.com
-
-## 🌟 Fun fact:
-
-I'm an absolute computer freak, and not planning to give up!
