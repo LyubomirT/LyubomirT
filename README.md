@@ -14,3 +14,5 @@ I'm a web developer (mostly), but also interested in AI development and machine 
 ## 📫 How to reach me:
 
 You can contact me on Discord (@lyubomirt), or using email: ternavski103@gmail.com
+
+You can also join my [Discord Server](https://discord.gg/4pfXVGfjXT), where I'm active the most!
