@@ -2,7 +2,7 @@
 
 # Hi there, I'm LyubomirT 👋
 
-I'm a web developer (mostly), but also interested in AI development and machine structures. I like to create fun and useful projects using Python, HTML, JS and other languages.
+I'm a web developer (mostly), but also interested in desktop and frameworks. I like to create fun and useful projects using Python, Go, HTML, JS and other languages.
 
 ## 🚀 Some of my projects:
 
