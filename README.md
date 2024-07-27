@@ -17,6 +17,6 @@ You can contact me on Discord (@lyubomirt), or using email: [ternavski103@gmail.
 
 You can also join my [Discord Server](https://discord.gg/4pfXVGfjXT), where I'm active the most!
 
-## 🫡 Support my work!
+## 💸 Support me:
 
 Thank you for checking out my profile! If you like my work, consider supporting me on [BuyMeACoffee](https://www.buymeacoffee.com/lyubomirt). 100% of the donations will go towards improving my projects and creating new ones! 🚀
