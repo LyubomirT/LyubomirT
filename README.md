@@ -28,7 +28,7 @@ I also work with:
   <img src="https://img.shields.io/badge/-Discord.js-7289DA?logo=discord&logoColor=white&style=for-the-badge" alt="Discord.js" />
 </p>
 
-Besides coding, I'm also skilled in social media management, and I run a Discord server with over 350 members called <span style="font-weight: bold; color: #FF4500;">The Orange Squad</span>.
+Besides coding, I am also very social, and I run a Discord server with over 400 members called <span style="font-weight: bold; color: #FF4500;">The Orange Squad</span>.
 
 ## 🚀 Some of my projects:
 
@@ -39,8 +39,9 @@ Besides coding, I'm also skilled in social media management, and I run a Discord
 
 ## 🌟 Notable Achievements:
 
-- Developer and designer of [LeadUltimate](https://leadultimate.com).
-- Achieved 2nd place in the <span style="font-weight: bold; color: #FFA500;">Odeska Oblasty Minor Academy of Science</span> competition with a game I developed from scratch.
+- Developer and designer of [LeadUltimate](https://leadultimate.com) and [hyssna.co](https://hyssna.co/)
+- 2024: Achieved 2nd place in the <span style="font-weight: bold; color: #FFA500;">Odeska Oblasty Minor Academy of Science</span> competition with a game I developed from scratch.
+- February 2025: Achieved 2nd place in the same competition stage, with a fully-featured SQL database manager application.
 
 ## 📫 How to reach me:
 
