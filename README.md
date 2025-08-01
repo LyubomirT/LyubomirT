@@ -32,10 +32,8 @@ Besides coding, I am also very social, and I run a Discord server with over 400 
 
 ## 🚀 Some of my projects:
 
-- [OrionBot](https://github.com/LyubomirT/OrionBot): A Python library that simplifies the process of training and running chatbots using NLTK. It makes chatbot development easy, even for those with minimal Machine Learning experience.
-- [LESP](https://github.com/LyubomirT/lesp): LESP is a lightweight, efficient spelling proofreader written in Python. It's designed for ease of use and low resource consumption while still providing accurate spell checking.
-- [PrismBlue](https://github.com/LyubomirT/prismblue): A fast and lightweight text editor available for Windows, Mac, and Linux. PrismBlue supports any file extension, making it a versatile tool for developers and writers alike.
-- [URL Slicer](https://github.com/LyubomirT/url-slicer): A customizable URL shortening website that allows users to shorten URLs with plenty of customization options.
+- [IntenseRP Next](https://github.com/LyubomirT/intense-rp-next): An actively maintained and supported revival of the original IntenseRP API project, which is a bridge for connecting the SillyTavern front-end to DeepSeek models using the free DeepSeek chat UI and browser automation.
+- [LESP](https://github.com/LyubomirT/lesp): LESP is a lightweight, efficient spelling autocorrect library written in Python. It's designed for ease of use and low resource consumption while still providing accurate spell checking.
 
 ## 🌟 Notable Achievements:
 
