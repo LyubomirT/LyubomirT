@@ -53,8 +53,10 @@ You can also join my [Discord Server](https://discord.gg/4pfXVGfjXT), where I'm 
 
 ## 💸 Support me:
 
-Thank you for checking out my profile! If you like my work, consider supporting me on [BuyMeACoffee](https://www.buymeacoffee.com/lyubomirt). Every donation goes towards improving my projects and creating new ones! 🚀
+Thank you for checking out my profile! If you like my work, consider supporting me on [Donatello](https://donatello.to/lyubomirt). Every donation goes towards improving my projects and creating new ones! 🚀
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/lyubomirt"><img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge" alt="BuyMeACoffee" /></a>
+  <a href="https://donatello.to/lyubomirt">
+    <img src="https://img.shields.io/badge/Donatello-Donate-FFD700?style=for-the-badge&logo=star&logoColor=black&labelColor=0057B7" alt="Donatello" />
+  </a>
 </p>
