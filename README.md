@@ -28,8 +28,6 @@ I also work with:
   <img src="https://img.shields.io/badge/-Discord.js-7289DA?logo=discord&logoColor=white&style=for-the-badge" alt="Discord.js" />
 </p>
 
-Besides coding, I am also very social, and I run a Discord server with over 400 members called <span style="font-weight: bold; color: #FF4500;">The Orange Squad</span>.
-
 ## 🚀 Some of my projects:
 
 - [IntenseRP Next](https://github.com/LyubomirT/intense-rp-next): An actively maintained and supported revival of the original IntenseRP API project, which is a bridge for connecting the SillyTavern front-end to DeepSeek models using the free DeepSeek chat UI and browser automation.
@@ -47,16 +45,4 @@ Besides coding, I am also very social, and I run a Discord server with over 400 
   <img src="https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" /> @lyubomirt
   <br />
   <a href="mailto:ternavski103@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
-</p>
-
-You can also join my [Discord Server](https://discord.gg/4pfXVGfjXT), where I'm most active!
-
-## 💸 Support me:
-
-Thank you for checking out my profile! If you like my work, consider supporting me on [Donatello](https://donatello.to/lyubomirt). Every donation goes towards improving my projects and creating new ones! 🚀
-
-<p align="center">
-  <a href="https://donatello.to/lyubomirt">
-    <img src="https://img.shields.io/badge/Donatello-Donate-FFD700?style=for-the-badge&logo=star&logoColor=black&labelColor=0057B7" alt="Donatello" />
-  </a>
 </p>
