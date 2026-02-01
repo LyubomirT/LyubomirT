@@ -42,7 +42,9 @@ I also work with:
 ## 📫 How to reach me:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" /> @lyubomirt
-  <br />
-  <a href="mailto:ternavski103@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Discord-%40lyubomirt-7289DA?logo=discord&logoColor=white&style=for-the-badge" alt="Discord @lyubomirt" />
+  <img src="https://img.shields.io/badge/Telegram-LyubomirT-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram LyubomirT" />
+  <a href="mailto:ternavski103@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ternavski103%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email ternavski103@gmail.com" />
+  </a>
 </p>
